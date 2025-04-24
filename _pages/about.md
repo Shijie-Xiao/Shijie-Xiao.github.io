@@ -28,9 +28,8 @@ latest_posts:
 ---
 
 
-
-
 Hi, I’m Shijie from Wuhan, China.
+
 
 I am a MS. student in **ECE @ Georgia Tech** and gained a BS. Degree in **AIA @ HUST**.
 
