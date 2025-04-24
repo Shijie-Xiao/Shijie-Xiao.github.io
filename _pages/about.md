@@ -33,9 +33,9 @@ latest_posts:
 
 ⚽  I'm a passionate football fan and supporter of FC Bayern Munich
 
-🎓 I am a MS. student in **ECE @ Georgia Tech** and gained a BS. Degree in **AIA @ HUST**.
+🎓 I am MS. student in **ECE @ Georgia Tech** and gained BS. Degree in **AIA @ HUST**.
 
-🔍 My research interests included Machine Learning, Computer Vision, Image Proccessing, Generative AI. 
+🔍 My research interests included Machine Learning, Computer Vision, Generative AI. 
 
 💻 I conducted research at BrainMLLab @ Georgia Tech, DeepvisonLab @ HKUST-gz, ABILab @ CUHK. 
 
