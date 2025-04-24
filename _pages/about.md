@@ -39,7 +39,7 @@ latest_posts:
 
 💻 I conducted research at BrainMLLab @ Georgia Tech, DeepvisonLab @ HKUST-gz, ABILab @ CUHK. 
 
-🧑‍💻 My technical expertise includes Python, C++, PyTorch, Java, MATLAB, Linux, Transformers, Diffusion Models, and CNNs.
+🧑‍💻 My technical expertise includes Python, C++, Java, MATLAB, Linux, git.
 
 💼 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
