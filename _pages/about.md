@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p>CODA @ Georgia Tech</p>
-    <p>Atlanta, GA</p>
+    <p>Atlanta, GA, 30308</p>
 
 selected_papers: false
 social: true
