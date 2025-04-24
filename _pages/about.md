@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>CODA @ Georgia Tech</p>
-    <p>Atlanta, GA, 30308</p>
+    <p>ECE @ Georgia Tech</p>
+    <p>Atlanta</p>
 
 selected_papers: false
 social: true
