@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>13th floor CODA @ Georgia Tech</p>
+    <p>CODA @ Georgia Tech</p>
     <p>Atlanta, GA</p>
 
 selected_papers: false
