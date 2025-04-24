@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Shijie's projects.
+description: Shijie's projects. To be updated.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
