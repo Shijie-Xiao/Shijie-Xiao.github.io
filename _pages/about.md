@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>ECE @ Georgia Tech</p>
-    <p>Atlanta</p>
+    <p>CODA @ Georgia Tech</p>
 
 selected_papers: false
 social: true
