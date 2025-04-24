@@ -32,3 +32,5 @@ I am a MS. student in ECE@Georgia Tech, expected to graduate in 2026. I gained B
 I conducted research at BrainML Lab@Georgia Tech, Deepvison Lab@HKUST-gz, and ABI Lab@CUHK. My research interests included Machine Learning, Computer Vision. I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
 
 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time roles from 2026.
+
+I play soccer and I am fan of FC Bayren Munich.
