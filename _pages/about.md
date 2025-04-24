@@ -35,7 +35,9 @@ latest_posts:
 
 💼 My technical expertise includes Python, C++, Java, MATLAB, Linux, git. Currently seeking **SDE / MLE** internships/ Co-op or full-time job. 
 
-⚽ 📸 I am also a passionate soccer fan of FC Bayern Munich and played RW in my team and I like photography. I'm open to interesting collaborations and great conversations!
+⚽ 📸 I am also a passionate soccer fan of FC Bayern Munich and played RW in my team and I like photography. 
+
+I'm open to interesting collaborations and great conversations!
 
 
 
