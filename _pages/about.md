@@ -31,10 +31,9 @@ Hi, I’m Shijie from Wuhan, China.
 
 I am a MS. student in **ECE @ Georgia Tech** and gained a BS. Degree in **AIA @ HUST**.
 
-My research interests included Machine Learning, Computer Vision. 
+My research interests included Machine Learning, Computer Vision, Image Proccessing, Generative AI. 
 
 I conducted research at **BrainML Lab @ Georgia Tech**, **Deepvison Lab @ HKUST-gz**, **ABI Lab @ CUHK**.
-
 
 My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
 
