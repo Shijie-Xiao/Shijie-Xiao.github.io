@@ -31,7 +31,7 @@ latest_posts:
 
 📸 I like photography
 
-⚽ I'm a passionate football fan and supporter of FC Bayern Munich
+⚽  I'm a passionate football fan and supporter of FC Bayern Munich
 
 🎓 I am a MS. student in **ECE @ Georgia Tech** and gained a BS. Degree in **AIA @ HUST**.
 
