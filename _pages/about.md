@@ -40,7 +40,7 @@ I gained a BS. Degree in **AIA @ HUST**.
 
 💼 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
-🧑‍🤝‍🧑 Let’s connect—I'm always open to interesting collaborations and great conversations!
+🧑‍🤝‍🧑 I'm always open to interesting collaborations and great conversations!
 
 
 
