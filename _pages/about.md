@@ -34,12 +34,15 @@ I gained a BS. Degree in **AIA @ HUST**.
 
 I conducted research at **BrainML Lab @ Georgia Tech**, **Deepvison Lab @ HKUST-gz**, and **ABI Lab @ CUHK**. 
 My research interests included Machine Learning, Computer Vision. 
+
 I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. 
 My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs. 
 
 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
 I enjoy watching soccer as a fan of FC Bayern Munich, playing badminton, and taking photos. 
+
 I’ll be sharing some soccer and photography moments on this site in the future. 
+
 Feel free to reach out!
 
