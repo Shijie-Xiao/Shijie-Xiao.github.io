@@ -33,9 +33,9 @@ latest_posts:
 
 🧑‍💻 My research interests included Machine Learning, Computer Vision, Generative AI. I’ve conducted research at **BrainML Lab @ Georgia Tech**, **DeepVision Lab @ HKUST-GZ**, and **ABI Lab @ CUHK**
 
-💼 My technical expertise includes Python, C++, Java, MATLAB, Linux, git. Currently seeking SDE / MLE / SWE internships/ Co-op or full-time. I'm open to interesting collaborations and great conversations!
+💼 My technical expertise includes Python, C++, Java, MATLAB, Linux, git. Currently seeking SDE / MLE / SWE internships/ Co-op or full-time. 
 
-⚽/📸 I am also a passionate soccer fan of FC Bayern Munich and played RW in my team and I like photography.
+⚽/📸 I am also a passionate soccer fan of FC Bayern Munich and played RW in my team and I like photography. I'm open to interesting collaborations and great conversations!
 
 
 
