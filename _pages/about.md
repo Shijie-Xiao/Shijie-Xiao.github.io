@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MS ECE @ Georgia Tech</a>.
+subtitle: <a href='https://ece.gatech.edu'>MS ECE @ Georgia Tech</a>.
 
 profile:
   align: right
