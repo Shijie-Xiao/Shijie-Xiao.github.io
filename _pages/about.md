@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>ECE @ Georgia Tech</p>
+    <p>13th floor CODA @ Georgia Tech</p>
     <p>Atlanta, GA</p>
     <p><a href="mailto:xiaosj1103@gmail.com">xiaosj1103@gmail.com</a></p>
 
