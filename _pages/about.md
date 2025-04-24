@@ -27,10 +27,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a Master's student in Electrical and Computer Engineering at Georgia Tech, expected to graduate in May 2026. I hold a Bachelor's degree in Artificial Intelligence and Automation from Huazhong University of Science and Technology (GPA 3.95/4.00). 
+I am a MS student in ECE@Georgia Tech, expected to graduate in 2026. I gained a BS. in AIA@HUST(GPA 3.95/4.00). 
 
-My research interests lie at the intersection of machine learning, computer vision, and brain-computer interfaces. I have worked on projects involving video-based accident prediction, pedestrian posture analysis, and diffusion-based denoising. My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
+My research interests included of Machine Learning, Computer Vision. I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
 
-Previously, I conducted research at BrainML Lab at Georgia Tech, HKUST, and CUHK, with multiple publications and top rankings in CVPR 2023 BDD100K Challenge.
+Previously, I conducted research at BrainML Lab@Georgia Tech, Deepvison@HKUST-gz, and ABILab@CUHK.
 
-I am currently seeking internship opportunities in software engineering, machine learning engineering, or research-focused roles in the areas of distributed systems, AI applications, and computational neuroscience.
+Currently seeking SDE / MLE / SWE internships/ Co-op or full-time roles from 2026.
