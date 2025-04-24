@@ -33,8 +33,8 @@ latest_posts:
 
 📸 I love photography.
 
-🎓 I am a MS. student in **ECE @ Georgia Tech**. 
-and gained a BS. Degree in **AIA @ HUST**. 
+🎓 I am a **MS.** student in **ECE @ Georgia Tech**. 
+and gained a **BS.** Degree in **AIA @ HUST**. 
 
 🔍 My research interests included Machine Learning, Computer Vision. 
 
