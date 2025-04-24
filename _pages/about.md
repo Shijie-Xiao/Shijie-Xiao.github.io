@@ -27,11 +27,11 @@ latest_posts:
   limit: 3
 ---
 
-🌍 Hi, I’m Shijie from Wuhan, China.
+🌍 Hi, I am Shijie from Wuhan, China.
 
 📸 I like photography
 
-⚽  I'm a passionate football fan and supporter of FC Bayern Munich
+⚽ I'm a passionate football fan and supporter of FC Bayern Munich
 
 🎓 I am MS. student in **ECE @ Georgia Tech** and gained BS. Degree in **AIA @ HUST**.
 
