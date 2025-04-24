@@ -37,6 +37,10 @@ latest_posts:
 
 🔍 My research interests included Machine Learning, Computer Vision, Image Proccessing, Generative AI. 
 
+💻 I conducted research at BrainMLLab @ Georgia Tech, DeepvisonLab @ HKUST-gz, ABILab @ CUHK. 
+
+🧑‍💻 My technical expertise includes Python, C++, PyTorch, Java, MATLAB, Linux, Transformers, Diffusion Models, and CNNs.
+
 💼 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
 🧑‍🤝‍🧑 I'm always open to interesting collaborations and great conversations!
