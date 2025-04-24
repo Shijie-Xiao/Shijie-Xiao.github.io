@@ -37,7 +37,7 @@ I am a MS. student in **ECE @ Georgia Tech** and gained a BS. Degree in **AIA @ 
 
 My research interests included Machine Learning, Computer Vision, Image Proccessing, Generative AI. 
 I conducted research at **BrainMLLab @ Georgia Tech**, **DeepvisonLab @ HKUST-gz**, **ABILab @ CUHK**.
-My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
+My technical expertise includes Python, C++, PyTorch, Java, MATLAB, Linux, Transformers, Diffusion Models, and CNNs.
 
 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
