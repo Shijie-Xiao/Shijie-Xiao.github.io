@@ -29,20 +29,27 @@ latest_posts:
 
 Hi, I’m Shijie from Wuhan, China. 
 
-I am a MS. student in **ECE @ Georgia Tech**, expected to graduate in 2026. 
+I am a MS. student in **ECE @ Georgia Tech**. 
 I gained a BS. Degree in **AIA @ HUST**. 
 
-I conducted research at **BrainML Lab @ Georgia Tech**, **Deepvison Lab @ HKUST-gz**, and **ABI Lab @ CUHK**. 
 My research interests included Machine Learning, Computer Vision. 
+I conducted research at **BrainML Lab @ Georgia Tech**, **Deepvison Lab @ HKUST-gz**, **ABI Lab @ CUHK**. 
+
 
 I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. 
 My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs. 
 
 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
-I enjoy watching soccer as a fan of FC Bayern Munich, playing badminton, and taking photos. 
+---
 
-I’ll be sharing some soccer and photography moments on this site in the future. 
+🌏 I come from **Wuhan, China**.
 
-Feel free to reach out!
+⚽ I'm a passionate **football fan** and lifelong supporter of **FC Bayern Munich**.
+
+📸 I love **photography**.
+
+Let’s connect—I'm always open to interesting collaborations and great conversations!
+
+
 
