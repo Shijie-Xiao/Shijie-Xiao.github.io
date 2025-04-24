@@ -27,10 +27,8 @@ latest_posts:
   limit: 3
 ---
 
-I am a MS student in ECE@Georgia Tech, expected to graduate in 2026. I gained a BS. in AIA@HUST(GPA 3.95/4.00). 
+I am a MS. student in ECE@Georgia Tech, expected to graduate in 2026. I gained BS. Degree in AIA@HUST(GPA 3.95/4.00) in 2024. 
 
-My research interests included of Machine Learning, Computer Vision. I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
-
-Previously, I conducted research at BrainML Lab@Georgia Tech, Deepvison@HKUST-gz, and ABILab@CUHK.
+I conducted research at BrainML Lab@Georgia Tech, Deepvison Lab@HKUST-gz, and ABI Lab@CUHK. My research interests included Machine Learning, Computer Vision. I have worked on projects involving video-based prediction, pedestrian posture analysis, and Diffusion Model. My technical expertise includes Python, C++, PyTorch, Transformers, Diffusion Models, and CNNs.
 
 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time roles from 2026.
