@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>13th floor CODA @ Georgia Tech</p>
     <p>Atlanta, GA</p>
-    <p><a href="mailto:xiaosj1103@gmail.com">xiaosj1103@gmail.com</a></p>
 
 selected_papers: false
 social: true
