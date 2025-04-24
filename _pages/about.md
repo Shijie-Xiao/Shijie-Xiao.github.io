@@ -35,13 +35,11 @@ latest_posts:
 
 🎓 I am MS. student in **ECE @ Georgia Tech** and gained BS. Degree in **AIA @ HUST**.
 
-🔍 My research interests included Machine Learning, Computer Vision, Generative AI. 
+🔍 My research interests included Machine Learning, Computer Vision, Generative AI. I’ve conducted research at **BrainML Lab @ Georgia Tech**, **DeepVision Lab @ HKUST-GZ**,**ABI Lab @ CUHK**
 
-🧑‍💻 My technical expertise includes Python, C++, Java, MATLAB, Linux, git.
+🧑‍💻 My technical expertise includes Python, C++, Java, MATLAB, Linux, git. Currently seeking SDE / MLE / SWE internships/ Co-op or full-time. I'm open to interesting collaborations and great conversations!
 
-💼 Currently seeking SDE / MLE / SWE internships/ Co-op or full-time.
 
-🧑‍🤝‍🧑 I'm open to interesting collaborations and great conversations!
 
 
 
