@@ -1,3 +1,7 @@
+# Repository data fetched from the GitHub API at build time.
+# The third-party card services (github-readme-stats / github-profile-trophy)
+# are unreliable (503/402), so this page renders native cards from this data.
+
 github_users:
   - Shijie-Xiao
 
@@ -5,8 +9,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - Shijie-Xiao/tropical_cyclone_risk
-  - Shijie-Xiao/WeatherRisk_final
-  - Shijie-Xiao/Hurricane_predict
+  - Shijie-Xiao/TCG
+  - Shijie-Xiao/FHLO
   - Shijie-Xiao/pangaeaGPT
   - Shijie-Xiao/LLM_eval
-  - Shijie-Xiao/ddpm-segmentation

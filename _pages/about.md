@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a second year CS Ph.D. student in the [SIC](https://www.ic.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/), co-advised by Prof. [Josiah Hester](https://ic.gatech.edu/people/josiah-hester) and Prof. [Ali Sarhadi](https://sarhadi.eas.gatech.edu/). I gained my M.S.[ECE](https://www.ic.gatech.edu/) from Georgia Tech and my B.S. AI from [HUST](https://english.hust.edu.cn/).
+I am a second year CS Ph.D. student in the [SIC](https://www.ic.gatech.edu/)(https://www.gatech.edu/), co-advised by Prof. [Josiah Hester](https://ic.gatech.edu/people/josiah-hester) and Prof. [Ali Sarhadi](https://sarhadi.eas.gatech.edu/). I gained my M.S.[ECE](https://www.ic.gatech.edu/) from Georgia Tech and my B.S. AI from [HUST](https://english.hust.edu.cn/).
 
 My research interests lie in **machine learning and computer vision**, with an emphasis on **climate and weather modeling**, **multi-agent behavior analysis**, and **large language models**. I develop machine learning methods that integrate physical priors and observational data to analyze extreme weather events and animal social behavior.
 
