@@ -28,7 +28,9 @@ latest_posts:
 
 I am a 2rd-year Ph.D. student in [SIC](https://www.ic.gatech.edu), advised by **Prof. Josiah Hester** and **Prof. Ali Sarhadi**. I gained my M.S. Degree from ECE Georgia Tech and B.S. Degree from AIA HUST. My research area is **Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model**.
 
-Before PhD, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. Also, I did research about Diffusion Models with in HKUST-GZ and in CUHK.
+Before PhD, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. 
+
+Also, I did research about Diffusion Models in HKUST-GZ and in CUHK.
 
 I am also a President of the [GT Chinese Soccer Club](https://gatech.campuslabs.com/engage/actioncenter/organization/chinese-soccer-club). Welcome all soccer fans join.
 
