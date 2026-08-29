@@ -102,33 +102,17 @@
     {
       "name": "Programming",
       "level": "Advanced",
-      "keywords": [
-        "Python",
-        "C++",
-        "Java",
-        "Bash",
-        "MATLAB",
-        "Linux"
-      ]
+      "keywords": ["Python", "C++", "Java", "Bash", "MATLAB", "Linux"]
     },
     {
       "name": "AI Frameworks",
       "level": "Advanced",
-      "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "OpenCV"
-      ]
+      "keywords": ["PyTorch", "TensorFlow", "OpenCV"]
     },
     {
       "name": "Models",
       "level": "Advanced",
-      "keywords": [
-        "Diffusion Models",
-        "Transformers",
-        "CNNs",
-        "LSTMs"
-      ]
+      "keywords": ["Diffusion Models", "Transformers", "CNNs", "LSTMs"]
     }
   ],
   "languages": [
@@ -156,10 +140,7 @@
     {
       "name": "eSports Assistant Based on Gaze Behavior",
       "summary": "Designed a deep learning system for gaze tracking in eSports.",
-      "highlights": [
-        "Built a cross-frame gaze estimation model using CNNs.",
-        "Few-shot learning framework for user adaptation with <50ms latency."
-      ],
+      "highlights": ["Built a cross-frame gaze estimation model using CNNs.", "Few-shot learning framework for user adaptation with <50ms latency."],
       "startDate": "2023-04-01",
       "endDate": "2023-05-30",
       "url": ""
