@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Selected code repositories from my research and coursework.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "This is my Resume for job.",
@@ -37,7 +30,27 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "projects-multi-agent-behavior-analysis",
+          title: 'Multi-Agent Behavior Analysis',
+          description: "geometric vision extraction and social attention inference",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-physics-based-tropical-cyclone-downscaling",
+          title: 'Physics-Based Tropical Cyclone Downscaling',
+          description: "physics-informed machine learning for climate risk assessment",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-pangaeagpt",
+          title: 'PangaeaGPT',
+          description: "large language model applications and evaluation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-llm-evaluation",
+          title: 'LLM Evaluation',
+          description: "evaluating conversational LLMs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
