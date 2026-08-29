@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cc.gatech.edu/'>Ph.D. Student in CS</a>, Georgia Tech
+subtitle: CS Ph.D. Student in Georgia Tech
 
 profile:
   align: right
