@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cc.gatech.edu/'>Ph.D. Student in Computer Science</a>, Georgia Institute of Technology
+subtitle: <a href='https://www.cc.gatech.edu/'>Ph.D. Student in CS</a>, Georgia Tech
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p>Climate Risk & Extreme Dynamics Lab</p>
-    <p>Georgia Institute of Technology</p>
+    <p>Georgia Tech</p>
 
 selected_papers: false
 social: true
