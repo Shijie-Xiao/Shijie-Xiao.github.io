@@ -30,6 +30,6 @@ I am a 2rd-year Ph.D. student in [SIC](https://www.ic.gatech.edu), advised by **
 
 Before PhD, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. Also, I did research about Diffusion Models with in HKUST-GZ and in CUHK.
 
-I am also the President of the [GT Chinese Soccer Club](https://gatech.campuslabs.com/engage/actioncenter/organization/chinese-soccer-club). Welcome all soccer fans join.
+I am also a President of the [GT Chinese Soccer Club](https://gatech.campuslabs.com/engage/actioncenter/organization/chinese-soccer-club). Welcome all soccer fans join.
 
 Open to collaborations and conversations. Feel free to reach out via email.
