@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "My GitHub activity and repositories.",
+          description: "Selected code repositories from my research and coursework.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -63,7 +63,7 @@ ninja.data = [{
         title: 'Leetcode_cn',
         section: 'Socials',
         handler: () => {
-          window.open("https://leetcode.cn/u/Shijie-Xiao/", "_blank");
+          window.open("https://leetcode.cn/u/competent-solomonrir/", "_blank");
         },
       },{
       id: 'light-theme',
