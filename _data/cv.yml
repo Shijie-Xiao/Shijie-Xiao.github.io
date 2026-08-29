@@ -4,82 +4,118 @@
     - name: Full Name
       value: Shijie Xiao
     - name: Languages
-      value: English, Mandarin Chinese
+      value: Mandarin (Native), English
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Computer Science
-      institution: Georgia Institute of Technology
-      year: 2025 - Present
+    - title: "Ph.D. in Computer Science"
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: Aug 2025 - May 2029
       description:
-        - Co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi
-    - title: M.S. in Electrical and Computer Engineering
-      institution: Georgia Institute of Technology
-      year: 2024 - 2026
+        - "Advised by Prof. Josiah Hester and Prof. Ali Sarhadi"
+        - "Focus on physics-ML hybrid models for weather forecasting"
+    - title: "M.S. in Computer Engineering"
+      institution: Georgia Institute of Technology, Atlanta, GA
+      year: May 2026
       description:
-        - Thesis: "A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference"
-        - Lab: BrainML Lab, advised by Prof. Anqi Wu
-    - title: B.S. in Artificial Intelligence
-      institution: Huazhong University of Science and Technology
-      year: 2020 - 2024
+        - "GPA: 3.90/4.00"
+        - "Coursework: Computer Vision, Advanced Programming Techniques, Generative and Geometric Deep Learning, ML for Neural/Behavioral Data"
+    - title: "B.S. in Artificial Intelligence & Automation"
+      institution: "Huazhong University of Science and Technology, Wuhan, China"
+      year: June 2024
       description:
-        - GPA: 3.95/4.0
+        - "GPA: 3.95/4.00"
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Climate Risk & Extreme Dynamics Lab, Georgia Institute of Technology
-      year: 2025 - Present
+      institution: "Climate Risk & Extreme Dynamics Lab, Georgia Tech (sponsored by Sandia National Laboratories)"
+      year: May 2025 - Present
       description:
-        - AI-based tropical cyclone prediction and physics-based downscaling models, advised by Prof. Ali Sarhadi
+        - title: "FAST-ML: A Hybrid Physics-Machine Learning Framework for Tropical Cyclone Intensity Forecasting (in preparation for JAMES)"
+          contents:
+            - "Developed the FAST-ML framework that embeds neural networks into physics models to build a hybrid physics-ML system"
+            - "Engineered differentiable optimization to learn dynamic environmental parameters directly from 3D atmospheric data"
+            - "Outperformed the Google state-of-the-art in some cases while preserving physical interpretability"
+        - title: "Physics-based Generative AI for Probabilistic Forecasting of Hurricane-Driven Compound Flooding (in preparation for NMI)"
+          contents:
+            - "Built a TensorFlow-based generative emulator that translates tropical cyclone tracks into compound flood fields"
+            - "Overcame historical data scarcity by training on massive ensembles of physics-simulated synthetic tracks coupled with complex hydrodynamic and hydraulic simulations"
+            - "Slashed computational bottlenecks by generating probabilistic flood maps from ECMWF ensembles in seconds instead of days, enabling real-time, risk-informed emergency planning"
+    - title: Research Intern & Master Thesis
+      institution: "BrainML Lab, Georgia Tech (advised by Prof. Anqi Wu)"
+      year: Jan 2025 - Dec 2025
+      description:
+        - title: "A Computational Framework for Multi-Agent Behavior Analysis: Geometric Vision Extraction and Social Attention Inference"
+          contents:
+            - "Conducted research on machine learning methods for trajectory analysis to understand animal behavior patterns"
+            - "Implemented algorithms to predict mice movement and modeled spatiotemporal interactions using graph structures"
+            - "Developed training pipelines and introduced a novel geodesic loss function that improved performance"
+    - title: Research Assistant & Undergraduate Thesis
+      institution: "HKUST (advised by Prof. Yincong Chen)"
+      year: Jan 2024 - June 2024
+      description:
+        - title: "Enhancing Segmentation from Datasets Containing Noisy Labels Using Generative Models"
+          contents:
+            - "Conducted research on applying noisy label segmentation to diffusion models for image generation tasks"
+            - "Proposed a novel approach for learning from noise-infused labels in both unsupervised and semi-supervised settings"
+            - "Utilized unlabeled and noisy-labeled image datasets to improve segmentation performance using Stable Diffusion"
     - title: Research Assistant
-      institution: BrainML Lab, Georgia Institute of Technology
-      year: 2024 - 2026
+      institution: "CUHK (advised by Prof. Wu Yuan)"
+      year: Dec 2022 - Mar 2023
       description:
-        - Multi-animal interaction and social behavior analysis, advised by Prof. Anqi Wu
-    - title: Research Intern
-      institution: DeepVision Lab, HKUST(GZ)
-      year: 2023
+        - title: "Multiplicative Speckle Noise Denoising of OCT Medical Images Based on Diffusion Models"
+          contents:
+            - "Developed a DDPM-based denoising method for speckle noise in OCT medical images to improve diagnostic accuracy"
+            - "Implemented noise modeling and diffusion training pipelines, and enhanced convergence speed and prediction efficiency"
+            - "Reproduced baseline models including DnCNN, U-Net, BM3D, TCFL-OCT, and DDPM for comparative evaluation"
+            - "Wrote Python scripts to compute denoising metrics such as PSNR, SSIM, and GCMSE"
+    - title: Participant, CVPR 2023 BDD100K Challenges
+      institution: Object Tracking / Autonomous Driving
+      year: May 2023 - June 2023
       description:
-        - Diffusion models for label-efficient semantic segmentation
-    - title: Research Intern
-      institution: ABI Lab, The Chinese University of Hong Kong
-      year: 2022
+        - title: "Multi-Object Tracking for Autonomous Driving"
+          contents:
+            - "Implemented object detection with state-of-the-art detectors including YOLO and DINO"
+            - "Developed a multi-object tracking pipeline for autonomous driving using state-of-the-art machine learning models"
+            - "Ranked in the top 20% for Multi-Object Tracking (MOT) and achieved 1st place in Object Detection (OD)"
+    - title: Undergraduate Research Assistant
+      institution: "HUST (advised by Prof. Xiang Bai)"
+      year: Sep 2022 - Dec 2022
       description:
-        - OCT speckle denoising and medical image analysis
+        - title: "Recognition and Extraction of Musical Notes Using Optical Character Recognition"
+          contents:
+            - "Conducted research on text detection of musical notation using OCR techniques"
+            - "Built and annotated a specialized dataset from online musical tune data for model training and evaluation"
+            - "Evaluated models including DBNet, DBNet++, and PANet using the MMOCR framework"
 
 - title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/Shijie-Xiao/tropical_cyclone_risk">Physics-Based Tropical Cyclone Downscaling Model</a>
-      year: 2024 - 2025
-      description: A physics-based tropical cyclone downscaling model for climate risk assessment.
-    - title: <a href="https://github.com/Shijie-Xiao/LLM_eval">LLM Evaluation</a>
-      year: 2024
-      description: Conversational AI course final project on evaluating large language models, Georgia Tech.
-    - title: <a href="https://github.com/Shijie-Xiao/pangaeaGPT">PangaeaGPT</a>
-      year: 2024
-      description: Large language model applications and evaluation.
+    - title: eSports Gaze Behavior Detection
+      year: Feb 2022 - Apr 2023
+      description:
+        - "Designed a personalized eSports assistant using deep learning for gaze tracking across video frames"
+        - "Built a cross-frame gaze estimation model using CNNs and temporal feature alignment"
+        - "Proposed a novel few-shot learning framework allowing rapid adaptation to users with minimal calibration data"
+        - "Final system supports real-time inference with <50ms latency on standard GPUs"
+    - title: Health Management System
+      year: June 2020 - May 2021
+      description:
+        - "Developed a health code system including QR code generation, data management, and epidemic risk level updates"
+        - "Designed a structured user database supporting registration, trip tracking, and automated status updates"
+        - "Implemented modular features such as location-based risk evaluation and dynamic color coding"
 
-- title: Academic Interests
-  type: nested_list
+- title: Skills
+  type: map
   contents:
-    - title: Machine Learning for Climate and Weather
-      items:
-        - Physics-informed deep learning
-        - Tropical cyclone modeling and risk assessment
-    - title: Computer Vision
-      items:
-        - Multi-agent behavior analysis
-        - Diffusion models for image segmentation
-    - title: Large Language Models
-      items:
-        - Evaluation and reliability
-        - Domain applications
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Soccer (right wing, FC Bayern Munich fan), photography
+    - name: Programming
+      value: "Python, C/C++, Java, Bash, MATLAB, Linux"
+    - name: AI Frameworks
+      value: "PyTorch, TensorFlow, OpenCV"
+    - name: Models
+      value: "Diffusion Models, Transformer, CNN, LSTM"
+    - name: Tools
+      value: "Git, SQL, Excel"
