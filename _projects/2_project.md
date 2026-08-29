@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Physics-Based Tropical Cyclone Downscaling
-title_short: Tropical Cyclone Downscaling
 description: physics-informed machine learning for climate risk assessment
 img: assets/img/proj_cyclone.jpg
 importance: 2
