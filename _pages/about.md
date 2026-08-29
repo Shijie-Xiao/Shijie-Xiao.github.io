@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>CRED Lab</p>
+    <p>A. French Building 207 F</p>
     <p>Georgia Tech</p>
 
 selected_papers: false
