@@ -30,7 +30,7 @@ I am a 2rd-year Ph.D. student in the [SIC](https://www.ic.gatech.edu), co-advise
 
 My research area is **Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model**.
 
-Prior to my Ph.D. studies, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. 
+Prior to my Ph.D. studies, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_.
 
 I did research about Diffusion Models with **Prof. Yincong Chen in HKUST-GZ** and **Prof. Wu Yuan in CUHK**.
 
