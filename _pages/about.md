@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a 2rd-year Ph.D. student in the [SIC](https://www.ic.gatech.edu), co-advised by **Prof. Josiah Hester** and **Prof. Ali Sarhadi**. I gained my M.S. Degree from ECE Georgia Tech and B.S. Degree from AIA HUST. My research area is **Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model**.
+I am a 2rd-year Ph.D. student in [SIC](https://www.ic.gatech.edu), advised by **Prof. Josiah Hester** and **Prof. Ali Sarhadi**. I gained my M.S. Degree from ECE Georgia Tech and B.S. Degree from AIA HUST. My research area is **Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model**.
 
 Before PhD, I conducted research with **Prof. Anqi Wu** and finalized my MS Thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. Also, I did research about Diffusion Models with in HKUST-GZ and in CUHK.
 
