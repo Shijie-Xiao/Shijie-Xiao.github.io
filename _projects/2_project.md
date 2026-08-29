@@ -13,7 +13,7 @@ Research conducted at the [Climate Risk & Extreme Dynamics Lab](https://sarhadi.
 
 ## Overview
 
-*A Physics-Based, Tropical Cyclone Downscaling Model*
+_A Physics-Based, Tropical Cyclone Downscaling Model_
 
 This project develops a physics-based downscaling model for tropical cyclones, supporting climate risk assessment under a warming climate. The model integrates physical constraints with data-driven methods to reconstruct realistic tropical cyclone activity from large-scale climate conditions.
 

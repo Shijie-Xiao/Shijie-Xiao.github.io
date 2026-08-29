@@ -13,7 +13,7 @@ My master's thesis at the BrainML Lab, Georgia Tech, advised by Prof. Anqi Wu.
 
 ## Overview
 
-*A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference*
+_A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_
 
 This work presents a computational framework for analyzing multi-animal interactions and social behavior. The framework integrates geometric vision extraction—recovering pose and motion information from video—with social attention inference, modeling how agents attend to and influence one another during interaction.
 

@@ -5,7 +5,7 @@ inline: false
 related_posts: false
 ---
 
-Defended my master's thesis, *A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference*, at the BrainML Lab, Georgia Tech.
+Defended my master's thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_, at the BrainML Lab, Georgia Tech.
 
 ---
 
