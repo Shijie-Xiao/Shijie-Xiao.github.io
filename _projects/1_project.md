@@ -5,7 +5,7 @@ description: geometric vision extraction and social attention inference
 img: assets/img/proj_behavior.jpg
 importance: 1
 category: research
-github: https://github.com/Shijie-Xiao
+github: https://github.com/Shijie-Xiao/socialAttention
 related_publications: true
 ---
 
@@ -20,8 +20,13 @@ This work presents a computational framework for analyzing multi-animal interact
 ## Key Components
 
 - **Geometric vision extraction**: pose estimation and trajectory extraction from multi-animal video recordings
-- **Social attention inference**: modeling directed interactions between agents
-- **Behavioral analysis**: quantitative characterization of social behavior dynamics
+- **Social attention inference**: modeling directed interactions between agents using graph structures
+- **Novel geodesic loss**: a loss function that improves trajectory prediction performance
+- **Training pipelines**: end-to-end pipelines for mice movement prediction and spatiotemporal interaction modeling
+
+## Resources
+
+- Code: [socialAttention](https://github.com/Shijie-Xiao/socialAttention)
 
 <!-- Replace the image below with a figure from your thesis (e.g., framework overview). -->
 <div class="row">

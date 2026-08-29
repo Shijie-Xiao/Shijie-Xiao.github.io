@@ -1,39 +1,39 @@
 ---
 layout: page
-title: Physics-Based Tropical Cyclone Downscaling
-description: physics-informed machine learning for climate risk assessment
-img: assets/img/proj_cyclone.jpg
+title: "FAST-ML: Hybrid Physics-ML Tropical Cyclone Forecasting"
+description: physics-informed neural networks for tropical cyclone intensity forecasting
+img: assets/img/proj_fastml.jpg
 importance: 2
 category: research
-github: https://github.com/Shijie-Xiao/tropical_cyclone_risk
+github: https://github.com/Shijie-Xiao/FHLO
 related_publications: true
 ---
 
-Research conducted at the [Climate Risk & Extreme Dynamics Lab](https://sarhadi.eas.gatech.edu/), Georgia Tech, advised by Prof. Ali Sarhadi.
+Graduate research at the [Climate Risk & Extreme Dynamics Lab](https://sarhadi.eas.gatech.edu/), Georgia Tech, advised by Prof. Ali Sarhadi, sponsored by Sandia National Laboratories.
 
 ## Overview
 
-_A Physics-Based, Tropical Cyclone Downscaling Model_
+_FAST-ML: A Hybrid Physics-Machine Learning Framework for Tropical Cyclone Intensity Forecasting_ (in preparation for JAMES)
 
-This project develops a physics-based downscaling model for tropical cyclones, supporting climate risk assessment under a warming climate. The model integrates physical constraints with data-driven methods to reconstruct realistic tropical cyclone activity from large-scale climate conditions.
+This project develops a hybrid physics-ML framework that embeds neural networks into physics models for tropical cyclone intensity forecasting. Based on physics-informed neural networks (PINN) and the MIT FHLO forecasting system, the framework learns dynamic environmental parameters directly from 3D atmospheric data.
 
 ## Key Components
 
-- **Physics-based modeling**: tropical cyclone genesis, track, and intensity simulation constrained by large-scale environmental fields
-- **Machine learning integration**: data-driven components for downscaling and bias correction
-- **Risk assessment**: probabilistic characterization of tropical cyclone hazards
+- **Hybrid physics-ML system**: neural networks embedded into physics models, preserving physical interpretability
+- **Differentiable optimization**: dynamic environmental parameters learned directly from 3D atmospheric data
+- **Performance**: outperforms the Google state-of-the-art in some cases
 
 ## Resources
 
-- Code: [WeatherRisk_final](https://github.com/Shijie-Xiao/WeatherRisk_final) / [tropical_cyclone_risk](https://github.com/Shijie-Xiao/tropical_cyclone_risk)
-- Related work: [Hurricane genesis prediction](https://github.com/Shijie-Xiao/Hurricane_predict)
+- Code: [FHLO](https://github.com/Shijie-Xiao/FHLO) (reproduction of the MIT FHLO intensity forecasting model)
+- Related: [TCG](https://github.com/Shijie-Xiao/TCG) (tropical cyclone genesis prediction)
 
-<!-- Replace the image below with a figure from the project (e.g., simulated tracks or risk maps). -->
+<!-- Replace the image below with a figure from the project (e.g., intensity forecast curves or framework diagram). -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/proj_cyclone.jpg" title="Model overview" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/proj_fastml.jpg" title="Framework overview" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Model overview. To be replaced with a figure from the project.
+    Framework overview. To be replaced with a figure from the project.
 </div>
