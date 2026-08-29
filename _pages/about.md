@@ -26,12 +26,12 @@ latest_posts:
   limit: 3
 ---
 
-I am a second year Ph.D. student in the [SIC](https://www.ic.gatech.edu/) Georgia Tech, co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi. I gained my M.S.ECE from Georgia Tech and my B.S. AI from HUST.
+I am a 2rd-year Ph.D. student in the [SIC](https://www.ic.gatech.edu/)，Georgia Tech, co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi. I gained my M.S.ECE from Georgia Tech and my B.S. AI from HUST.
 
-My research interests lie in **machine learning and computer vision**, with an emphasis on **climate and weather modeling**, **multi-agent behavior analysis**, and **large language models**. I develop machine learning methods that integrate physical priors and observational data to analyze extreme weather events and animal social behavior.
+My research area is Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model.
 
-Prior to my Ph.D. studies, I conducted research at the BrainML Lab at Georgia Tech, where my master's thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_, developed a computational framework combining geometric vision extraction with social attention inference. I also contributed to research on diffusion models for image segmentation and OCT speckle denoising at the DeepVision Lab (HKUST-GZ) and the ABI Lab (CUHK).
+Prior to my Ph.D. studies, I conducted research with Prof. Anqi Wu at Georgia Tech, where my master's thesis, _A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference_. 
 
-Beyond research, I am a passionate soccer fan of FC Bayern Munich, playing right wing, and an amateur photographer.
+I also contributed to research on diffusion models for image segmentation and OCT speckle denoising at the DeepVision Lab (HKUST-GZ) and the ABI Lab (CUHK).
 
 I am open to interesting collaborations and conversations. Feel free to reach out via email.
