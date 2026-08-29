@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Shijie's projects. To be updated.
+description: Research and coursework projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, coursework]
 horizontal: false
 ---
 

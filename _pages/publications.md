@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Still working and wish to publish some interesting research. To be updated.
+description: A full list of publications will appear here.
 nav: true
 nav_order: 2
 ---

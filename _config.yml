@@ -84,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Shijie Xiao's Blog # blog_name will be displayed in your blog page
+blog_description: notes on machine learning, computer vision, and climate research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -270,8 +270,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Xiao]
+  first_name: [Shijie, S.]
 
   style: apa
   locale: en

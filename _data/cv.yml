@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shijie Xiao
     - name: Languages
-      value: English, German
+      value: English, Mandarin Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: Georgia Institute of Technology
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi
+    - title: M.S. in Electrical and Computer Engineering
+      institution: Georgia Institute of Technology
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
+        - Thesis: A Computational Framework for Multi-Agent Behavior Analysis: Integrating Geometric Vision Extraction and Social Attention Inference
+        - Lab: BrainML Lab, advised by Prof. Anqi Wu
+    - title: B.S. in Artificial Intelligence
+      institution: Huazhong University of Science and Technology
+      year: 2020 - 2024
+      description:
+        - GPA: 3.95/4.0
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Climate Risk & Extreme Dynamics Lab, Georgia Institute of Technology
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - AI-based tropical cyclone prediction and physics-based downscaling models, advised by Prof. Ali Sarhadi
+    - title: Research Assistant
+      institution: BrainML Lab, Georgia Institute of Technology
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Multi-animal interaction and social behavior analysis, advised by Prof. Anqi Wu
+    - title: Research Intern
+      institution: DeepVision Lab, HKUST(GZ)
+      year: 2023
       description:
+        - Diffusion models for label-efficient semantic segmentation
+    - title: Research Intern
+      institution: ABI Lab, The Chinese University of Hong Kong
+      year: 2022
+      description:
+        - OCT speckle denoising and medical image analysis
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: <a href="https://github.com/Shijie-Xiao/tropical_cyclone_risk">Physics-Based Tropical Cyclone Downscaling Model</a>
+      year: 2024 - 2025
+      description: A physics-based tropical cyclone downscaling model for climate risk assessment.
+    - title: <a href="https://github.com/Shijie-Xiao/LLM_eval">LLM Evaluation</a>
+      year: 2024
+      description: Conversational AI course final project on evaluating large language models, Georgia Tech.
+    - title: <a href="https://github.com/Shijie-Xiao/pangaeaGPT">PangaeaGPT</a>
+      year: 2024
+      description: Large language model applications and evaluation.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning for Climate and Weather
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Physics-informed deep learning
+        - Tropical cyclone modeling and risk assessment
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Multi-agent behavior analysis
+        - Diffusion models for image segmentation
+    - title: Large Language Models
+      items:
+        - Evaluation and reliability
+        - Domain applications
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Soccer (right wing, FC Bayern Munich fan), photography
