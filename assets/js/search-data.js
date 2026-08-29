@@ -30,26 +30,61 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-multi-agent-behavior-analysis",
+        },{id: "projects-esports-gaze-behavior-detection",
+          title: 'eSports Gaze Behavior Detection',
+          description: "few-shot gaze tracking for personalized eSports assistance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-health-management-system",
+          title: 'Health Management System',
+          description: "health code and trip card system with risk evaluation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-multi-agent-behavior-analysis",
           title: 'Multi-Agent Behavior Analysis',
           description: "geometric vision extraction and social attention inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-physics-based-tropical-cyclone-downscaling",
-          title: 'Physics-Based Tropical Cyclone Downscaling',
-          description: "physics-informed machine learning for climate risk assessment",
+            },},{id: "projects-fast-ml-hybrid-physics-ml-tropical-cyclone-forecasting",
+          title: 'FAST-ML: Hybrid Physics-ML Tropical Cyclone Forecasting',
+          description: "physics-informed neural networks for tropical cyclone intensity forecasting",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-generative-ai-for-compound-flood-forecasting",
+          title: 'Generative AI for Compound Flood Forecasting',
+          description: "physics-based generative emulator for probabilistic hurricane flooding",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-segmentation-with-noisy-labels-via-diffusion-models",
+          title: 'Segmentation with Noisy Labels via Diffusion Models',
+          description: "label-efficient segmentation using Stable Diffusion",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-oct-speckle-denoising-with-diffusion-models",
+          title: 'OCT Speckle Denoising with Diffusion Models',
+          description: "DDPM-based denoising for OCT medical images",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-musical-note-recognition-with-ocr",
+          title: 'Musical Note Recognition with OCR',
+          description: "text detection of musical notation using OCR",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-cvpr-2023-bdd100k-challenges",
+          title: 'CVPR 2023 BDD100K Challenges',
+          description: "multi-object tracking and object detection for autonomous driving",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-pangaeagpt",
           title: 'PangaeaGPT',
           description: "large language model applications and evaluation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-llm-evaluation",
           title: 'LLM Evaluation',
           description: "evaluating conversational LLMs",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
