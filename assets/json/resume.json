@@ -134,8 +134,9 @@
       "studyType": "Master of Science",
       "startDate": "2024-08-01",
       "endDate": "2026-05-01",
-      "score": "GPA: 3.90/4.00",
+      "score": "3.90/4.00",
       "courses": [
+        "GPA: 3.90/4.00",
         "Computer Vision",
         "Advanced Programming Techniques",
         "Generative and Geometric Deep Learning",
@@ -150,8 +151,9 @@
       "studyType": "Bachelor of Science",
       "startDate": "2020-09-01",
       "endDate": "2024-06-01",
-      "score": "GPA: 3.95/4.00",
+      "score": "3.95/4.00",
       "courses": [
+        "GPA: 3.95/4.00",
         "Data Structures and Algorithms",
         "Machine Learning",
         "Computer Architecture",
