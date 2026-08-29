@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a 2rd-year Ph.D. student in the [SIC](https://www.ic.gatech.edu/)，Georgia Tech, co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi. I gained my M.S.ECE from Georgia Tech and my B.S. AI from HUST.
+I am a 2rd-year Ph.D. student in the SIC ，Georgia Tech, co-advised by Prof. Josiah Hester and Prof. Ali Sarhadi. I gained my M.S.ECE from Georgia Tech and my B.S. AI from HUST.
 
 My research area is Computer Vision, Generative Model and Sci-ML on Physics-ML hybrid model.
 
