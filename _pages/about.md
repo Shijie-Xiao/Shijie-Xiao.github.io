@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>Climate Risk & Extreme Dynamics Lab</p>
+    <p>CRED Lab</p>
     <p>Georgia Tech</p>
 
 selected_papers: false
