@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Still working and wish to publish some interesting research. To be updated.",
+          description: "A full list of publications will appear here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Shijie&#39;s projects. To be updated.",
+          description: "Research and coursework projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -69,21 +69,14 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/Shijie-Xiao# your GitHub user name", "_blank");
-        },
-      },{
-        id: 'social-instagram',
-        title: 'Instagram',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://instagram.com/sxiao73# your instagram id", "_blank");
+          window.open("https://github.com/Shijie-Xiao", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/shijie-xiao# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/shijie-xiao", "_blank");
         },
       },{
       id: 'light-theme',
